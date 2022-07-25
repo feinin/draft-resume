@@ -1,0 +1,20 @@
+{
+    "name": "Kenan Kong",
+    "website": "https://kenan.github.io/",
+    "linkedin": "https://www.linkedin.com/in/kongkenan/",
+    "github": "feinin",
+    "email": "kongkenan@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "HTML5",
+        "CSS",
+        "Node.js"
+    ],
+    "otherSkills": [
+        "Adobe Premiere",
+        "Blender",
+        "Adobe PhotoShop"
+    ]
+}
